@@ -22,4 +22,4 @@ PopcornTime is a movie searching application where users can search the movies.
 - Equatable 
 
 ## What the app looks like
-<img src="01.png" width="200" height="400">
+<img src="01.png" width="200" height="400"> <img src="02.png" width="200" height="400"> <img src="03.png" width="200" height="400"> <img src="04.png" width="200" height="400"> <img src="05.png" width="200" height="400">
